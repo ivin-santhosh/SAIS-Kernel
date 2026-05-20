@@ -2,13 +2,15 @@
 > A modular, local-first artificial intelligence operating system designed for dynamic capability generation, multi-persona orchestration, and structured task execution.
 
 ## 📑 Table of Contents
-1. [Overview](#overview)
-2. [Supported AI Models](#supported-ai-models)
-3. [Key Features](#key-features)
-4. [The Persona System](#the-persona-system)
-5. [Architecture](#architecture)
-6. [Quickstart](#quickstart)
-7. [Development Roadmap](#development-roadmap)
+1. [Overview](#-overview)
+2. [Supported AI Models](#-supported-ai-models)
+3. [Key Features](#-key-features)
+4. [The Persona System](#-the-persona-system)
+5. [Architecture](#-architecture)
+6. [Quickstart](#-quickstart)
+7. [Development Roadmap](#-development-roadmap)
+8. [UI Screenshots](#-ui-screenshots)
+9. [Disclaimer](#-disclaimer)
 
 ---
 
@@ -140,3 +142,9 @@ Once the system is active, you can interact naturally or use the following syste
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0a3f1109-6ee9-4b72-b5cd-ba7eb4b0701d" />
 
 ---
+
+
+## ⚠️ Disclaimer
+
+SAIS is a powerful system designed with local-first execution capabilities, including direct system-level access and physical codebase generation. 
+The owner of this repository, along with any developers and contributors to this repository, assume no liability and are not responsible for any misuse, damage, data loss, or unauthorized access caused by utilizing this software. Users are solely responsible for managing the Approval Queue, reviewing AI-generated logic before execution, and ensuring the secure operation of their local environments.
